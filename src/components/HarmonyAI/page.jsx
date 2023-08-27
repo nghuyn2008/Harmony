@@ -1,5 +1,5 @@
 import { Card, Title, Bold, TextInput, Button } from '@tremor/react'
-import ChatContainer from './components/ChatContainer'
+import ChatContainer from '../../app/AI/components/ChatContainer'
 
 export default function HarmonyAI() {
    return (
